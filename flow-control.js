@@ -1,6 +1,5 @@
 function basicTeenager(age) {
   if (age >=13 && age <=19) {return "You are a teenager!"}
-  expect {basicTeenager(age >=13 && age <=19).=("You are a teenager!")
 }
 
 function teenager(age) {
