@@ -20,7 +20,7 @@ function ternaryTeenager(age) {
 }
 
 function switchAge(age) {
-  swith(age){
+  switch (age){
     case 13:
     return "You are a teenager"
     case 14:
